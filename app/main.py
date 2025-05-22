@@ -5,3 +5,4 @@ def generate_random_number():
 
 print("Random number:", generate_random_number())
 
+#sdf
